@@ -1,0 +1,36 @@
+D:\Documents\College\Summer 2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\bin\Debug\CalorieCalculatorWindows.exe.config
+D:\Documents\College\Summer 2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\bin\Debug\CalorieCalculatorWindows.exe
+D:\Documents\College\Summer 2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\bin\Debug\CalorieCalculatorWindows.pdb
+D:\Documents\College\Summer 2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.csprojAssemblyReference.cache
+D:\Documents\College\Summer 2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.CalorieCalculatorHomeScreen.resources
+D:\Documents\College\Summer 2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.Properties.Resources.resources
+D:\Documents\College\Summer 2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.csproj.GenerateResource.cache
+D:\Documents\College\Summer 2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.csproj.CoreCompileInputs.cache
+D:\Documents\College\Summer 2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.exe
+D:\Documents\College\Summer 2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.pdb
+D:\Documents\College\Summer 2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.CalorieIntakeSuggesstion.resources
+D:\Documents\College\Summer 2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.DailyIntakeCalculator.resources
+D:\Documents\College\Summer 2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.GoalEntry.resources
+D:\Documents\College\Summer 2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.SuggestionPopup.resources
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\bin\Debug\CalorieCalculatorWindows.exe
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\bin\Debug\UserDB.mdf
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\bin\Debug\UserDB_log.ldf
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\bin\Debug\CalorieCalculatorWindows.exe.config
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\bin\Debug\EntityFramework.dll
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\bin\Debug\EntityFramework.xml
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.CalorieIntakeSuggesstion.resources
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.DailyIntakeCalculator.resources
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.GoalEntry.resources
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.CalorieCalculatorHomeScreen.resources
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.Properties.Resources.resources
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.SuggestionPopup.resources
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.csproj.GenerateResource.cache
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.csproj.CoreCompileInputs.cache
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.csproj.CopyComplete
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.exe
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.pdb
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\bin\Debug\CalorieCalculatorWindows.pdb
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.csprojAssemblyReference.cache
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCalculatorWindows\obj\Debug\CalorieCalculatorWindows.HistoryScreen.resources

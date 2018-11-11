@@ -1,0 +1,17 @@
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\bin\Debug\UserDB.mdf
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\bin\Debug\UserDB_log.ldf
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\bin\Debug\CalorieCounterConsoleApp.exe.config
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\bin\Debug\CalorieCounterConsoleApp.exe
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\bin\Debug\CalorieCounterConsoleApp.pdb
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\bin\Debug\EntityFramework.dll
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\bin\Debug\EntityFramework.xml
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\obj\Debug\CalorieCounterConsoleApp.csprojAssemblyReference.cache
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\obj\Debug\CalorieCounterConsoleApp.csproj.CoreCompileInputs.cache
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\obj\Debug\CalorieCounterConsoleApp.csproj.CopyComplete
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\obj\Debug\CalorieCounterConsoleApp.exe
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\obj\Debug\CalorieCounterConsoleApp.pdb
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\bin\Debug\CalorieCalculatorWindows.exe
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\bin\Debug\CalorieCalculatorWindows.pdb
+D:\Documents\College\Summer2018\C#\Project\CalorieCalculatorWPF\CalorieCalculatorWindows\CalorieCounterConsoleApp\bin\Debug\CalorieCalculatorWindows.exe.config
